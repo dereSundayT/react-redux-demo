@@ -1,0 +1,27 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "fix Attr error issue is yet to to resolved",
+      "tech": "Jame Cors",
+      "date": "2020-09-18T15:06:40.047Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
