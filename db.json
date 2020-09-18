@@ -2,9 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "fix Attr error issue is yet to to resolved",
+      "message": "fix Attr error issue is yet to to resolved edit",
       "tech": "Jame Cors",
-      "date": "2020-09-18T15:06:40.047Z"
+      "attention": true,
+      "date": "2020-09-18T15:58:33.705Z"
     }
   ],
   "techs": [

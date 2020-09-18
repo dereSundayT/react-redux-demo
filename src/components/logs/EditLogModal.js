@@ -25,6 +25,7 @@ const EditLogModal = ({ current, updateLog }) => {
 				id: current.id,
 				message,
 				tech,
+				attention,
 				date: new Date(),
 			};
 			updateLog(upLog);
